@@ -1,5 +1,6 @@
 * {
     font-family: "Urbanist", sans-serif;
+    font-weight: bold;
     margin: 0;
     padding: 0;
     text-decoration: none;
@@ -44,3 +45,69 @@
     color: #CBEA7B;
 }
 
+#home-section {
+    display: flex;
+    align-items: center;
+    height: 832px;
+}
+
+#img-home {
+    width: 949px;
+}
+
+#img-home img {
+    width: 949px;
+    height: 828px;
+    object-fit: cover;
+}
+
+#text-home {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 125.5px 0;
+    padding-left: 50px;
+    padding-right: 162px;
+}
+
+#text-home h3 {
+    font-size: 28px;
+    margin-bottom: 24px;
+    width: 100%;
+}
+
+#text-home h1 {
+    font-size: 58px;
+    margin-bottom: 20px;
+}
+
+#text-home p {
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+#button-home {
+    width: 100%;
+}
+
+#button-home1{
+    width: 187px;
+    height: 59px;
+    background-color: #CBEA7B;
+    font-size: 18px;
+    border-radius: 8px;
+    border: none;
+    margin-right: 20px;
+}
+
+#button-home2{
+    width: 154px;
+    height: 59px;
+    background-color: #F6FBE9;
+    font-size: 18px;
+    border-radius: 8px;
+    border: none;
+}
