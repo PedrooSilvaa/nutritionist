@@ -91,6 +91,7 @@
 
 #button-home {
     width: 100%;
+    margin-bottom: 70px;
 }
 
 #button-home1{
@@ -110,4 +111,23 @@
     font-size: 18px;
     border-radius: 8px;
     border: none;
+}
+
+/* 468671 */
+
+#feedback {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 66px;
+}
+
+#img-feedback {
+    display: flex;
+    width: 180px;
+}
+
+#text-feedback {
+    height: 20px;
+    font-size: 18px;
 }
