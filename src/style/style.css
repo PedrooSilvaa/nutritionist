@@ -192,6 +192,17 @@
     gap: 16px;
     margin-bottom: 24px;
 }
+
 .title-box h3 {
     font-size: 24px ;
+}
+
+
+
+.box-left-blog {
+    border: 2px solid black;
+}
+
+.box-right-blog {
+    border: 2px solid black;
 }
