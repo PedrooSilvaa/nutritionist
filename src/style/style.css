@@ -353,14 +353,15 @@
     }
 
     #pricing {
-        height: 832px;
+        height: fit-content;
         width: 1920px;
         display: flex;
         justify-content: center;
         align-items: center;
     }
-
+    
     #container-pricing {
+        margin-bottom: 150px;
         width: 1596px;
         height: 871px;
         display: flex;
@@ -412,7 +413,7 @@
         grid-template-rows: 497px;
         gap: 30px;
     }
-
+    
     .box-pricing {
         background-color: #EEF8D3;  
         padding: 50px;
@@ -462,4 +463,67 @@
     #conatainer-footer {
     padding: 50px 162px;
     }
+
+    #menu-footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 50px;
+
+    }
+
+    #logo-footer {
+        gap: 10px;
+        display: flex;
+        align-items: center;
+        color: #FFFFFF;
+    }
+
+    #gotop {
+        gap: 20px;
+        display: flex;
+        color: #FFFFFF;
+        align-items: center;
+    }
+
+    #list-menu-footer {
+        display: flex;
+        gap: 28px;
+    }
+
+    #list-menu-footer a {
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+
+    #contact {
+        background-color: #234338;
+        display: flex;
+        height: 87px;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 14px;
+        border-radius: 8px;
+    }
+
+    #list-contact {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+
+    #list-contact h1 {
+        font-size: 18px;
+        border: 1px solid white;
+        display: flex;
+        align-items: center;
+        padding: 14px;
+        border-radius: 12px;
+        color: #FFFFFF; 
+    }
+
+    #text-footer {
+        color: white;
+    }
+
 }
