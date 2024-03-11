@@ -293,3 +293,58 @@
     font-size: 18px;
     font-weight: 300;
 }
+
+#testimonials {
+    height: 832px;
+    width: 1920px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container-testimonials {
+    width: 1596px;
+    height: 695px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title-testimonials {
+    font-size: 48px;
+    height: 72px;
+    margin-bottom: 10px;
+}
+
+#text-testimonials {
+    font-size: 18px;
+    height: 27px;
+    margin-bottom: 80px;
+}
+
+.grid-testimonials {
+    display: grid;
+    grid-template-columns: 518.67px 518.67px 518.67px;
+    grid-template-rows: 398px;
+}
+
+.box-testimonials {
+    padding: 40px;
+}
+
+.description-testimonials {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.img-aspas {
+margin-bottom: 50px;
+}
+
+.perfil-testimonials {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 30px;
+    background-color: #F6FBE9;
+}
