@@ -146,7 +146,7 @@
     margin: 150px 162px;
     margin-bottom: 177px;
     width: 1596px;
-    height: 1008px;
+    height: fit-content;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -154,14 +154,18 @@
 
 #container-features h1 {
     font-size: 48px;
+    margin-bottom: 10px;
+    height: 72px;
 }
 
 #container-features p {
     font-size: 18px;
     font-weight: 500;
+    height: 27px;
 }
 
 .grid-features {
+    margin-top: 80px;
     display: grid;
     grid-template-columns: 783px 783px;
     grid-template-rows: 253px 253px 253px;
