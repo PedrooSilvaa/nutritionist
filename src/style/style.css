@@ -348,3 +348,103 @@ margin-bottom: 50px;
     padding: 30px;
     background-color: #F6FBE9;
 }
+
+#pricing {
+    height: 832px;
+    width: 1920px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container-pricing {
+    width: 1596px;
+    height: 871px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title-pricing {
+    font-size: 48px;
+    height: 72px;
+    margin-bottom: 10px;
+}
+
+#text-pricing {
+    text-align: center;
+    width: 996px;
+    font-size: 18px;
+    height: 27px;
+    margin-bottom: 80px;
+}
+
+#button-pricing {
+    border: solid 2px #DCF1A7;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 14px;
+}
+
+#button-month {
+    width: 114px;
+    height: 47px;
+    background-color: #234338;
+    color: #FFFFFF;
+}
+
+#button-year {
+    width: 99px;
+    height: 47px;
+}
+
+#description-button-pricing{
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+.grid-pricing{
+    display: grid;
+    grid-template-columns: 512px 512px 512px;
+    grid-template-rows: 497px;
+    gap: 30px;
+}
+
+.box-pricing {
+    background-color: #EEF8D3;  
+    padding: 50px;
+}
+
+.name-plan {
+    font-size: 30px;
+    height: 45px;
+}
+
+.description-price {
+    font-size: 18px;
+    height: 27px;
+    margin-bottom: 40px;
+}
+
+.text-price {
+    font-size: 18px;
+    margin-bottom: 40px;
+    font-weight: 400;
+}
+
+.price {
+    display: flex;
+    align-items: center;
+    h1 {
+        font-size: 50px;
+        color: #2C5446;
+    }
+}
+
+.button-choose-plan {
+    width: 412px;
+    height: 58px;
+    background-color: #CBEA7B;
+    border: none;
+    border-radius: 8px;
+}
