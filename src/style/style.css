@@ -280,7 +280,7 @@
 
 
 
-@media(min-width: 1400px){
+@media(min-width: 1440px){
     #menu-principal{   
         padding: 0 162px;  
         width: 1920px;
@@ -669,10 +669,10 @@
     }
 }
 
-@media(min-width: 1000px) and (max-width: 1400px){
+@media(min-width: 1000px) and (max-width: 1440px){
     #menu-principal{   
         padding: 0 162px;  
-        width: 1400px;
+        width: 1440px;
         height: 95px;
     }
     
@@ -681,19 +681,19 @@
     }
     
     #lista-menu a {
-        padding: 0 26px;
-        font-size: 18px;
+        padding: 0 20px;
+        font-size: 14px;
     }
     
     #lista-menu button {
-        width: 137px;
-        height: 55px;
-        border-radius: 8px;
-        font-size: 18px;
+        width: 101px;
+        height: 45px;
+        border-radius: 6px;
+        font-size: 14px;
     }
     
     #home-section{ 
-        width: 1400px;   
+        width: 1440px;   
         height: 832px;
     }
     #img-home{ 
@@ -765,7 +765,7 @@
     
     
     #features-section{ 
-        width: 1400px;
+        width: 1440px;
     }
     
     #container-features {
@@ -815,7 +815,7 @@
     }
     
     #blog-section{
-        width: 1400px;
+        width: 1440px;
     }
     
     #container-blog {
@@ -891,7 +891,7 @@
     
     #testimonials{
         height: 832px;
-        width: 1400px;
+        width: 1440px;
     }
     .grid-testimonials{
         grid-template-columns: 518.67px 518.67px 518.67px;
@@ -939,7 +939,7 @@
     
     #pricing{
         height: fit-content;
-        width: 1400px;
+        width: 1440px;
     }
     
     #container-pricing {
@@ -1021,7 +1021,7 @@
     }
     footer{
         height: 299px;
-        width: 1400px;
+        width: 1440px;
     }
     #conatainer-footer{
         padding: 50px 162px;
