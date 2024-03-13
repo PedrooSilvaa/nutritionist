@@ -817,25 +817,24 @@
     }
     
     #container-blog {
-        width: 100%;
-        width: 1596px;
+        width: 1280px;
     }
     
     #title-blog {
-        font-size: 48px;
-        height: 72px;
+        font-size: 38px;
+        height: 57px;
     }
     
     #text-blog {
-        font-size: 18px;
-        height: 54px;
-        width: 996px;
+        font-size: 16px;
+        height: 48px;
+        width: 780px;
         margin-bottom: 80px;
     }
     
     .grid-blog{
-        grid-template-columns: 783px 783px;
-        grid-template-columns: 832px 832px;
+        grid-template-columns: 630px 630px;
+        grid-template-columns: 666px 666px;
     }
     .box-left-blog {
         padding: 40px 40px;
@@ -844,13 +843,17 @@
     }
     
     .box-right-blog{
-        padding: 40px 40px;
+        padding: 30px;
         margin: 15px 0;
         margin-left: 15px;
     }
+
+    .box-left-blog img, .box-right-blog img {
+        max-width: 100%;
+    }
     .perfil{
-        width: 703px;
-        height: 100px;
+        width: 570px;
+        height: 83px;
     }
     
     .photo-name {
@@ -858,32 +861,32 @@
     }
     
     .name-blog{
-        font-size: 20px;
+        font-size: 18px;
     }
     
     .mini-title-blog{
-        height: 27px;
-        font-size: 18px;
+        height: 24px;
+        font-size: 16px;
         font-weight: 300;
-        width: 703px;
+        width: 570px;
     }
     
     .title-blog{
-        height: 39px;
-        font-size: 26px;
-        width: 703px;
-        margin-bottom: 30px;
+        height: 33px;
+        font-size: 22px;
+        width: 570px;
+        margin-bottom: 20px;
     }
     
     .description-blog{
-        font-size: 18px;
+        font-size: 16px;
         font-weight: 300;
-        width: 703px;
-        margin-bottom: 30px;
+        width: 570px;
+        margin-bottom: 20px;
     }
     
     .time-blog{
-        font-size: 18px;
+        font-size: 16px;
         font-weight: 300;
     }
     
