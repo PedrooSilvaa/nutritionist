@@ -938,90 +938,91 @@ footer {
     
     #container-pricing {
         margin-bottom: 150px;
-        width: 1596px;
-        height: 871px;
+        width: 1280px;
+        height: 706px;
     }
     
     #title-pricing {
-        font-size: 48px;
-        height: 72px;
-        margin-bottom: 10px;
+        font-size: 38px;
+        height: 57px;
+        margin-bottom: 6px;
     }
     
     #text-pricing {
-        width: 996px;
-        font-size: 18px;
-        height: 27px;
+        width: 780px;
+        font-size: 16px;
+        height: 48px;
         margin-bottom: 80px;
     }
     
     #button-pricing {
         padding: 10px;
         border-radius: 8px;
-        margin-bottom: 14px;
     }
     
     #button-month {
-        width: 114px;
-        height: 47px;
+        width: 99px;
+        height: 41px;
+        font-size: 14px;
     }
     
     #button-year {
-        width: 99px;
-        height: 47px;
+        width: 88px;
+        height: 41px;
+        font-size: 14px;
     }
     
     #description-button-pricing{
-        font-size: 18px;
+        font-size: 16px;
         margin-bottom: 50px;
     }
     
     
     .grid-pricing{
-        grid-template-columns: 512px 512px 512px;
-        grid-template-rows: 497px;
+        grid-template-columns: 413.33px 413.33px 413.33px;
+        grid-template-rows: 400px;
         gap: 30px;
     }
     .box-pricing{
-        padding: 50px;
+        padding: 40px;
         border-radius: 12px;
     }
     
     .name-plan {
-        font-size: 30px;
-        height: 45px;
+        font-size: 24px;
+        height: 36px;
     }
     
     .description-price {
-        font-size: 18px;
-        height: 27px;
+        font-size: 16px;
+        height: 24px;
         margin-bottom: 40px;
     }
     
     .text-price {
-        font-size: 18px;
+        font-size: 16px;
         margin-bottom: 40px;
         font-weight: 400;
     }
     
     .price h1{
-        font-size: 50px;
+        font-size: 40px;
     }
     .button-choose-plan{
-        width: 412px;
-        height: 58px;
+        width: 333.33;
+        height: 45px;
         border-radius: 8px;
     
     }
     footer{
-        height: 299px;
+        height: 244px;
         width: 1440px;
     }
     #conatainer-footer{
-        padding: 50px 162px;
+        padding: 40px 80px;
     }
     #menu-footer{
-        margin-bottom: 50px;
+        margin-bottom: 40px;
     }
     #logo-footer {
         gap: 10px;
@@ -1035,13 +1036,13 @@ footer {
     }
     
     #contact{
-        height: 87px;
+        height: 76px;
         padding: 0 14px;
         border-radius: 8px;
     }
     
     #list-contact h1 {
-        font-size: 18px;
+        font-size: 16px;
         border-radius: 12px;
         padding: 14px;
     }
