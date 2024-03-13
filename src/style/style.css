@@ -694,57 +694,57 @@
     
     #home-section{ 
         width: 1440px;   
-        height: 832px;
+        height: 712px;
     }
     #img-home{ 
-        width: 949px;
+        width: 710px;
     }
     
     #img-home img {
-        width: 949px;
-        height: 828px;
+        width: 710px;
+        height: 712px;
     }
     
     #text-home{
         width: 50%; 
         height: 100%;
-        padding: 125.5px 0;  
-        padding-left: 50px;   
-        padding-right: 162px;
+        padding: 120.5px 0;  
+        padding-left: 40px;   
+        padding-right: 80px;
     }
     
     #text-home h3 {
-        font-size: 28px;
-        margin-bottom: 24px;
+        font-size: 22px;
+        margin-bottom: 18px;
         width: 100%;
     }
     
     #text-home h1 {
-        font-size: 58px;
-        margin-bottom: 20px;
+        font-size: 48px;
+        margin-bottom: 16px;
     }
     
     #text-home p {
-        font-size: 18px;
-        margin-bottom: 50px;
+        font-size: 16px;
+        margin-bottom: 40px;
     }
     
     #button-home {
         width: 100%;
-        margin-bottom: 70px;
+        margin-bottom: 50px;
     }
     
     #button-home1{ 
-        width: 187px;
-        height: 59px;
-        font-size: 18px;
+        width: 147px;
+        height: 49px;
+        font-size: 14px;
         border-radius: 8px;
         margin-right: 20px;
     }
     #button-home2{ 
-        width: 154px;
-        height: 59px;
-        font-size: 18px;
+        width: 123px;
+        height: 49px;
+        font-size: 14px;
         border-radius: 8px;
     }
     
