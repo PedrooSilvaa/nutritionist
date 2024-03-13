@@ -749,7 +749,7 @@
     }
     
     #feedback {
-        height: 66px;
+        height: 52px;
         width: 100%;
     }
     
@@ -758,10 +758,9 @@
     }
     
     #text-feedback {
-        height: 20px;
+        height: 52px;
         font-size: 18px;
     }
-    
     
     
     #features-section{ 
